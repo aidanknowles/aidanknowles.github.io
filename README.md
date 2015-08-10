@@ -1,4 +1,3 @@
-## aidanknowles.github.io
 
 This is the Jekyll source for [my blog][45b9a69d].
 
