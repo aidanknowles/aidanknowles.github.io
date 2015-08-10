@@ -6,7 +6,7 @@ date: "2015-08-10 15:34"
 
 This is my first post.
 
-Blog is work in progress right now, excuse the appearance in the meantime.
+Blog is currently work-in-progress, excuse the appearance.
 
 
 {% highlight python %}
