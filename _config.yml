@@ -6,7 +6,7 @@ relative_permalinks: true
 
 # Setup
 title:               Aidan Knowles
-tagline:
+tagline:             Blog
 url:                 https://aidanknowles.github.io
 paginate:            1
 baseurl:             ""
@@ -27,4 +27,4 @@ author:
 # Custom vars
 version:
 github:
-  repo:              
+  repo:
